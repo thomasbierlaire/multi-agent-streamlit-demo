@@ -5,3 +5,4 @@ google-generativeai==0.5.3
 langchain-community==0.0.25
 duckduckgo-search==3.9.4
 python-dotenv==1.0.1
+pillow>=9.0.0,<10.0.0
